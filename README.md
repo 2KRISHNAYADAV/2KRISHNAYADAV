@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*x4rQFjfi0iK3gS1T.gif)
+![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif)
 
 
 <h1 align="center">Hi 👋, I'm KRISHNA YADAV</h1>
