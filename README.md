@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2krishnayadav&label=Profile%20views&color=0e75b6&style=flat" alt="2krishnayadav" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@krishnayad75517" target="blank"><img src="https://img.shields.io/twitter/follow/@krishnayad75517?logo=twitter&style=for-the-badge" alt="@krishnayad75517" /></a> </p>
+
 
 - 🌱 I’m currently learning **ML,DATA VISUALIZATION AND WRANGLING**
 
