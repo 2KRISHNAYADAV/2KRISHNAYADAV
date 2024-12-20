@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ML,DATA VISUALIZATION AND WRANGLING**
 
-- 🤝 I’m looking for help  **Humanoid robot My dreams project  🤖**
+- 🤝 I’m looking for help  **Humanoid Robot My dreams project  🤖**
 
 - 💬 Ask me about **SQL,PYTHONS,POWER BI,MATPLOTLIP,PLOTLY,TensorFlow**
 
