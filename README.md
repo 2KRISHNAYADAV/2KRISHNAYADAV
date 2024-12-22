@@ -5,6 +5,8 @@
 <h3 align="center">🚀 Passionate learner from India | Aspiring Software Engineer & Data Scientist 👩‍💻 🎓 B.Tech student with a strong love for coding and data science 📊💻 Always eager to learn, grow, and make an impact! 🌟✨</h3>
 <img align="right" alt="coding" width="400" src="https://pgmatrix.net/wp-content/uploads/2021/10/home-version-8-banner-image.webp">
 
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://x.com/KRISHNASHY71792)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2krishnayadav&label=Profile%20views&color=0e75b6&style=flat" alt="2krishnayadav" /> </p>
 
 
@@ -19,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@krishnayad75517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@krishnayad75517" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/krishna-yadav-392b61300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-yadav-392b61300" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/krishna yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="krishna yadav" height="30" width="40" /></a>
 <a href="https://kaggle.com/krishnayadav456wrsty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishnayadav456wrsty" height="30" width="40" /></a>
@@ -28,7 +30,12 @@
 <a href="https://www.leetcode.com/krishnayaduvansy58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishnayaduvansy58" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- Data Science Tools Section -->
+
+  <h2 style="color: #2196F3;">🔬 My Toolkit</h2>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,pandas,numpy,sql,tableau" alt="Tools" />
+  </div>
 <p align="left">
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="Power BI" width="40" height="40"/>
@@ -36,7 +43,9 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
   </a>
-  
+ 
+   
+
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
@@ -59,8 +68,22 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2krishnayadav&show_icons=true&locale=en&layout=compact" alt="2krishnayadav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2krishnayadav&show_icons=true&locale=en" alt="2krishnayadav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2krishnayadav&" alt="2krishnayadav" /></p>
+<div align="center">
+  <h1 style="font-size: 2.5em; color: #4CAF50;">👨‍💻 Welcome to My GitHub Profile!</h1>
+  <p style="font-size: 1.2em;">Exploring the power of <strong>Data Science</strong> and <strong>AI</strong> to create impactful solutions. 🚀</p>
+  
+  <!-- GitHub Stats Section -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=2krishnayadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2krishnayadav&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2krishnayadav&theme=tokyonight" alt="GitHub Streak" style="border-radius: 10px;" />
+  </div>
+  
+
+
+  <!-- Call to Action -->
+  <h3 style="color: #E91E63;">🤝 Let’s Connect</h3>
+
+</div>
