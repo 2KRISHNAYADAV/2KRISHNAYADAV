@@ -1,6 +1,6 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif)
 
-
+<h1  style="font-size: 2.5em; color: #4CAF50;">👨‍💻 Welcome to My GitHub Profile!</h1>
 <h1 align="center">Hi 👋, I'm KRISHNA YADAV</h1>
 <h3 align="center">🚀 Passionate learner from India | Aspiring Software Engineer & Data Scientist 👩‍💻 🎓 B.Tech student with a strong love for coding and data science 📊💻 Always eager to learn, grow, and make an impact! 🌟✨</h3>
 <img align="right" alt="coding" width="400" src="https://pgmatrix.net/wp-content/uploads/2021/10/home-version-8-banner-image.webp">
@@ -71,8 +71,6 @@
 
 
 <div align="center">
-  <h1 style="font-size: 2.5em; color: #4CAF50;">👨‍💻 Welcome to My GitHub Profile!</h1>
-  <p style="font-size: 1.2em;">Exploring the power of <strong>Data Science</strong> and <strong>AI</strong> to create impactful solutions. 🚀</p>
   
   <!-- GitHub Stats Section -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
