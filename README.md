@@ -42,6 +42,7 @@
   
 <p align="center">
   <h1>Welcome to my Data Science Toolkit!</h1>
+ 
   <p>This collection of tools and frameworks represents my journey in building data-driven solutions, performing exploratory data analysis, and creating impactful machine learning models. 🚀</p>
 </p>
 
@@ -51,7 +52,7 @@
 ## Languages and Programming Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
