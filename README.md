@@ -136,6 +136,32 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=2KRISHNAYADAV&theme=react-dark" />
 </p>
 
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/428b8f7e-7efa-44e3-9922-9a8d6638f8b5" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/500de173-23de-45a0-a9bf-e564cc39792b" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/f1d00463-1b1d-446e-a1d4-11fee1c07720" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/0001385b-7665-4604-a428-4e61c572c8f4" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/d3cdb6b5-6d99-4ba1-abe9-098f09ed5845" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/fdbd6f22-e109-446a-992e-6d519e24853e" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/96227532-1c1f-4d08-b66b-c2288ef93732" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/d05d57fd-cfdc-4c61-b720-ef2cd4cfbc21" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/b62d9c15-8f2a-4f3c-bc38-f4472cc641fa" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/fa141b3d-8780-4bf4-a2f8-451538346215" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/11eedcb1-6810-4acb-a893-0222765aa4fb" />
+<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/15859f60-602c-46ca-b4a6-9ed79a8f156a" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/a96af849-92f2-424e-87c7-9a0ead2e5675" />
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/07a9dca1-7b9f-44ff-92ae-cf6537ea809e" />
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8b05f8b-7e05-479c-8d5e-4b1a2f508358" />
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### 🤝 Let’s Connect!
