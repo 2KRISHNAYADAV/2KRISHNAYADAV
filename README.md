@@ -34,10 +34,6 @@
 
 
 
-<!-- 🚀 Starfield Data Science Banner -->
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/StarfieldSimulation.gif" width="100%" alt="Data Science Starfield Banner" />
-</p>
 
 <h2 align="center" style="color:#00E5FF; font-weight:bold;">
   🔬 My Cosmic Data Science Toolkit ✨
@@ -51,13 +47,13 @@
 
 <!-- ✨ Short Intro -->
 <p align="center" style="max-width:700px; margin:auto;">
-  🚀 This collection represents my journey through data, intelligence, and code.  
+   This collection represents my journey through data, intelligence, and code.  
   From visualization and cloud to machine learning — here's my galaxy of tools.  
 </p>
 
 ---
 
-### 💻 Languages & Programming
+###  Languages & Programming
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -69,7 +65,7 @@
 
 ---
 
-### 📚 Frameworks & Libraries
+###  Frameworks & Libraries
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -87,7 +83,7 @@
 
 ---
 
-### 📊 Data Visualization
+###  Data Visualization
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -98,7 +94,7 @@
 
 ---
 
-### ☁️ Cloud & Databases
+###  Cloud & Databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -108,7 +104,7 @@
 
 ---
 
-### 🛠️ Additional Tools
+###   Additional Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -120,7 +116,7 @@
 
 ---
 
-### 📈 GitHub Insights
+###  GitHub Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2krishnayadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -147,14 +143,14 @@
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/b62d9c15-8f2a-4f3c-bc38-f4472cc641fa" />
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/fa141b3d-8780-4bf4-a2f8-451538346215" />
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/11eedcb1-6810-4acb-a893-0222765aa4fb" />
-<img width="84" height="84" alt="image" src="https://github.com/user-attachments/assets/25d62690-34f4-477e-94c6-0a1c3d9d257d" />
-<img width="84" height="84" alt="image" src="https://github.com/user-attachments/assets/1b1b7154-5243-4b89-9624-34f3852d79d3" />
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/15859f60-602c-46ca-b4a6-9ed79a8f156a" />
-<img width="161" height="161" alt="image" src="https://github.com/user-attachments/assets/5609631b-70e6-4863-89c7-7b5d0fe20eb8" />
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/85e49315-12a9-4354-b825-0d94110ea475" />
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/a96af849-92f2-424e-87c7-9a0ead2e5675" />
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/07a9dca1-7b9f-44ff-92ae-cf6537ea809e" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e8b05f8b-7e05-479c-8d5e-4b1a2f508358" />
+<img width="56" height="84" alt="image" src="https://github.com/user-attachments/assets/25d62690-34f4-477e-94c6-0a1c3d9d257d" />
+<img width="56" height="84" alt="image" src="https://github.com/user-attachments/assets/1b1b7154-5243-4b89-9624-34f3852d79d3" />
+<img width="56" height="160" alt="image" src="https://github.com/user-attachments/assets/15859f60-602c-46ca-b4a6-9ed79a8f156a" />
+<img width="56" height="161" alt="image" src="https://github.com/user-attachments/assets/5609631b-70e6-4863-89c7-7b5d0fe20eb8" />
+<img width="56" height="160" alt="image" src="https://github.com/user-attachments/assets/85e49315-12a9-4354-b825-0d94110ea475" />
+<img width="56" height="120" alt="image" src="https://github.com/user-attachments/assets/a96af849-92f2-424e-87c7-9a0ead2e5675" />
+<img width="56" height="120" alt="image" src="https://github.com/user-attachments/assets/07a9dca1-7b9f-44ff-92ae-cf6537ea809e" />
+<img width="56" height="100" alt="image" src="https://github.com/user-attachments/assets/e8b05f8b-7e05-479c-8d5e-4b1a2f508358" />
 
 
 
