@@ -1,9 +1,10 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif)
 
-<h1  style="font-size: 2.5em; color: #4CAF50;">👨‍💻 Welcome to My GitHub Profile!</h1>
+<h1 align="center" style="font-size: 2.5em; color: #4CAF50;">👨‍💻 Welcome to My GitHub Profile!</h1>
 <h1 align="center">Hi 👋, I'm KRISHNA YADAV</h1>
-<h3 align="center">🚀 Passionate learner from India | Aspiring Software Engineer & Data Scientist 👩‍💻 🎓 B.Tech student with a strong love for coding and data science 📊💻 Always eager to learn, grow, and make an impact! 🌟✨</h3>
+<h3 align="center">🚀 Passionate learner from India | Aspiring Software Engineer & Data Scientist 👩‍💻 🎓</h3>
 <img align="right" alt="coding" width="400" src="https://pgmatrix.net/wp-content/uploads/2021/10/home-version-8-banner-image.webp">
+
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://x.com/KRISHNASHY71792)
 
@@ -166,21 +167,9 @@
 
 ---
 
-##  My Projects  
-
-###  Data Science  
-- [Brain Tumor Detection](https://github.com/2KRISHNAYADAV/brain-tumor-detection)  - Deep Learning for MRI scans  
-- [Prediction of Ticket Cancellation](https://github.com/2KRISHNAYADAV/Prediction_Of_Ticket_Cancellation_Accscore)  - ML-based prediction  
-- [Iris Flower Classification (KNN & DT)](https://github.com/2KRISHNAYADAV/Iris-Flower-Classification-KNN-AND-DT-)  - Classic ML model  
-- [Sales Forecasting System](https://github.com/2KRISHNAYADAV/Sales-Forecasting-System)  -  ML-based prediction  
-- [Loan Approval Prediction](https://github.com/2KRISHNAYADAV/Loan-Approval-Prediction-) -  ML-based prediction  
-- [Generative AI Anime Face](https://github.com/2KRISHNAYADAV/generative-AI-anime-face)  -  Deep Learning 
-
 ## <div align="center" style="font-size: 30px; font-weight: bold; background: linear-gradient(to right, #36D1DC, #5B86E5); -webkit-background-clip: text; color: transparent;"> My Projects </div>  
 
----
-
-### 🎨 Data Science  
+###  Data Science  
 
 <table>
 <tr>
@@ -233,9 +222,16 @@
 
 ---
 
-### 🚀 GitHub Insights  
+###  GitHub Insights  
 
 <div align="center">
+  
+ <!-- GitHub Metric --> 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2krishnayadav&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+---
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=2krishnayadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
