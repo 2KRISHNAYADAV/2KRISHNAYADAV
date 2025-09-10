@@ -166,23 +166,101 @@
 
 ---
 
+##  My Projects  
 
+###  Data Science  
+- [Brain Tumor Detection](https://github.com/2KRISHNAYADAV/brain-tumor-detection)  - Deep Learning for MRI scans  
+- [Prediction of Ticket Cancellation](https://github.com/2KRISHNAYADAV/Prediction_Of_Ticket_Cancellation_Accscore)  - ML-based prediction  
+- [Iris Flower Classification (KNN & DT)](https://github.com/2KRISHNAYADAV/Iris-Flower-Classification-KNN-AND-DT-)  - Classic ML model  
+- [Sales Forecasting System](https://github.com/2KRISHNAYADAV/Sales-Forecasting-System)  -  ML-based prediction  
+- [Loan Approval Prediction](https://github.com/2KRISHNAYADAV/Loan-Approval-Prediction-) -  ML-based prediction  
+- [Generative AI Anime Face](https://github.com/2KRISHNAYADAV/generative-AI-anime-face)  -  Deep Learning 
 
-###  GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2krishnayadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2krishnayadav&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2krishnayadav&theme=tokyonight" alt="GitHub Streak" />
-</div>
+## <div align="center" style="font-size: 30px; font-weight: bold; background: linear-gradient(to right, #36D1DC, #5B86E5); -webkit-background-clip: text; color: transparent;"> My Projects </div>  
 
 ---
 
-### 🌐 Contribution Graph
+### 🎨 Data Science  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2KRISHNAYADAV&theme=react-dark" />
-</p>
+<table>
+<tr>
+<td><a href="https://github.com/2KRISHNAYADAV/brain-tumor-detection"><img src="https://img.shields.io/badge/Brain_Tumor_Detection-Deep_Learning_for_MRI-ff4b5c?style=for-the-badge"></a></td>
+<td><a href="https://github.com/2KRISHNAYADAV/Prediction_Of_Ticket_Cancellation_Accscore"><img src="https://img.shields.io/badge/Ticket_Cancellation-Prediction-2ecc71?style=for-the-badge"></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/2KRISHNAYADAV/Iris-Flower-Classification-KNN-AND-DT-"><img src="https://img.shields.io/badge/Iris_Classification-KNN_&_DT-3498db?style=for-the-badge"></a></td>
+<td><a href="https://github.com/2KRISHNAYADAV/Sales-Forecasting-System"><img src="https://img.shields.io/badge/Sales_Forecasting-ML_Based-9b59b6?style=for-the-badge"></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/2KRISHNAYADAV/Loan-Approval-Prediction-"><img src="https://img.shields.io/badge/Loan_Approval-Prediction-e67e22?style=for-the-badge"></a></td>
+<td><a href="https://github.com/2KRISHNAYADAV/generative-AI-anime-face"><img src="https://img.shields.io/badge/Generative_AI-Anime_Face-f39c12?style=for-the-badge"></a></td>
+</tr>
+</table>
+
+---
+
+###  Data Analysis  
+
+<table>
+<tr>
+<td><a href="https://github.com/2KRISHNAYADAV/COVID-19-data-analysis-"><img src="https://img.shields.io/badge/COVID--19-Data_Analysis-c0392b?style=for-the-badge"></a></td>
+<td><a href="https://github.com/2KRISHNAYADAV/youtube-analysis-"><img src="https://img.shields.io/badge/YouTube-Analysis-d35400?style=for-the-badge"></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/2KRISHNAYADAV/Amazon-USA-Data-Financial-Insights-Across-All-Stateslog-normalization"><img src="https://img.shields.io/badge/Amazon_USA-Financial_Insights-8e44ad?style=for-the-badge"></a></td>
+<td><a href="https://github.com/2KRISHNAYADAV/100-Healthiest-Foods-Nutrition-and-Origin-Analysis"><img src="https://img.shields.io/badge/Healthiest_Foods-Analysis-16a085?style=for-the-badge"></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/2KRISHNAYADAV/USA-UNIVERSITY-"><img src="https://img.shields.io/badge/USA_Universities-Dataset_Analysis-27ae60?style=for-the-badge"></a></td>
+<td><a href="https://github.com/2KRISHNAYADAV/Customer-Segmentation-Using-K-Means-Clustering"><img src="https://img.shields.io/badge/Customer_Segmentation-KMeans-2980b9?style=for-the-badge"></a></td>
+</tr>
+</table>
+
+---
+
+###  Software Development  
+
+<table>
+<tr>
+<td><a href="https://github.com/2KRISHNAYADAV/LinguaMood.AI"><img src="https://img.shields.io/badge/LinguaMood.AI-NLP_Emotion_Detection-9c27b0?style=for-the-badge"></a></td>
+<td><a href="https://github.com/2KRISHNAYADAV/JobValidator"><img src="https://img.shields.io/badge/JobValidator-Fake_Job_Detection-2196f3?style=for-the-badge"></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/2KRISHNAYADAV/Google-like-Employee-Project-Management-System-PostgreSQL"><img src="https://img.shields.io/badge/Employee_Management_System-PostgreSQL-4caf50?style=for-the-badge"></a></td>
+<td><a href="https://github.com/2KRISHNAYADAV/WhatsApp-Business-Analytics-Panel-UI-Prototype"><img src="https://img.shields.io/badge/WhatsApp_Business-Analytics_Panel-ff9800?style=for-the-badge"></a></td>
+</tr>
+</table>
+
+---
+
+### 🚀 GitHub Insights  
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=2krishnayadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2krishnayadav&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2krishnayadav&theme=tokyonight" alt="GitHub Streak" />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=2krishnayadav&theme=tokyonight&row=1&column=7" alt="Trophies" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2krishnayadav&theme=tokyo-night" alt="Contribution Graph" />
+
+  <!-- Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=2krishnayadav&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
 
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/428b8f7e-7efa-44e3-9922-9a8d6638f8b5" />
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/500de173-23de-45a0-a9bf-e564cc39792b" />
