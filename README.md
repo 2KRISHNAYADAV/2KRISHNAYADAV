@@ -179,10 +179,26 @@
 <tr>
 <td><a href="https://github.com/2KRISHNAYADAV/Iris-Flower-Classification-KNN-AND-DT-"><img src="https://img.shields.io/badge/Iris_Classification-KNN_&_DT-3498db?style=for-the-badge"></a></td>
 <td><a href="https://github.com/2KRISHNAYADAV/Sales-Forecasting-System"><img src="https://img.shields.io/badge/Sales_Forecasting-ML_Based-9b59b6?style=for-the-badge"></a></td>
+  <td><a href="https://github.com/2KRISHNAYADAV/LinguaMood.AI"><img src="https://img.shields.io/badge/LinguaMood.AI-NLP_Emotion_Detection-9c27b0?style=for-the-badge"></a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/2KRISHNAYADAV/Loan-Approval-Prediction-"><img src="https://img.shields.io/badge/Loan_Approval-Prediction-e67e22?style=for-the-badge"></a></td>
 <td><a href="https://github.com/2KRISHNAYADAV/generative-AI-anime-face"><img src="https://img.shields.io/badge/Generative_AI-Anime_Face-f39c12?style=for-the-badge"></a></td>
+</tr>
+</table>
+
+---
+
+### Chatbot
+<table>
+<tr>
+  <td>
+  <a href="https://github.com/2KRISHNAYADAV/chatbot.AI">
+    <img src="https://img.shields.io/badge/Chatbot_AI-Multi_Language_Voice_Assistant-f50057?style=for-the-badge" alt="Chatbot AI - Multi Language Voice Assistant">
+  </a>
+</td>
+  
+<td><a href="https://github.com/2KRISHNAYADAV/Shreemati-AI"><img src="https://img.shields.io/badge/Shreemati.AI-Human_Like_Conversational_Assistant-00BCD4?style=for-the-badge"></a></td>
 </tr>
 </table>
 
@@ -206,17 +222,48 @@
 </table>
 
 ---
+### Database project 
+<table>
+  <tr><td><a href="https://github.com/2KRISHNAYADAV/Google-like-Employee-Project-Management-System-PostgreSQL"><img src="https://img.shields.io/badge/Employee_Management_System-PostgreSQL-4caf50?style=for-the-badge"></a></td> </tr>
+  
+</table>
 
-###  Software Development  
+### Software Development  
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/2KRISHNAYADAV/JobValidator">
+        <img src="https://img.shields.io/badge/JobValidator-Fake_Job_Detection-2196f3?style=for-the-badge" alt="JobValidator - Fake Job Detection">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/2KRISHNAYADAV/LDhingram">
+        <img src="https://img.shields.io/badge/LDhingram-Social_Media_App-9c27b0?style=for-the-badge" alt="LDhingram - Social Media App">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/2KRISHNAYADAV/WhatsApp-Business-Analytics-Panel-UI-Prototype">
+        <img src="https://img.shields.io/badge/WhatsApp_Business-Analytics_Panel-ff9800?style=for-the-badge" alt="WhatsApp Business Analytics Panel">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+###  Hackathon Projects  
 
 <table>
 <tr>
-<td><a href="https://github.com/2KRISHNAYADAV/LinguaMood.AI"><img src="https://img.shields.io/badge/LinguaMood.AI-NLP_Emotion_Detection-9c27b0?style=for-the-badge"></a></td>
-<td><a href="https://github.com/2KRISHNAYADAV/JobValidator"><img src="https://img.shields.io/badge/JobValidator-Fake_Job_Detection-2196f3?style=for-the-badge"></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/2KRISHNAYADAV/Google-like-Employee-Project-Management-System-PostgreSQL"><img src="https://img.shields.io/badge/Employee_Management_System-PostgreSQL-4caf50?style=for-the-badge"></a></td>
-<td><a href="https://github.com/2KRISHNAYADAV/WhatsApp-Business-Analytics-Panel-UI-Prototype"><img src="https://img.shields.io/badge/WhatsApp_Business-Analytics_Panel-ff9800?style=for-the-badge"></a></td>
+<td><a href="https://github.com/2KRISHNAYADAV/Bharatiya-Antariksh-Hackathon-2025"><img src="https://img.shields.io/badge/Bharatiya_Antariksh_Hackathon_2025-AI_Powered_Solar_Warning_System-1565C0?style=for-the-badge"></a></td>
+<td><a href="https://github.com/2KRISHNAYADAV/Cow-Breed-Classification-SIH-Hackathon-Project-"><img src="https://img.shields.io/badge/Cow_Breed_Classification-SIH_Hackathon-8E24AA?style=for-the-badge"></a></td>
 </tr>
 </table>
 
