@@ -169,13 +169,22 @@
 
 ## <div align="center" style="font-size: 30px; font-weight: bold; background: linear-gradient(to right, #36D1DC, #5B86E5); -webkit-background-clip: text; color: transparent;"> My Projects </div>  
 
-###  Data Science  
+###  Data Science  and ML
 
 <table>
 <tr>
 <td><a href="https://github.com/2KRISHNAYADAV/brain-tumor-detection"><img src="https://img.shields.io/badge/Brain_Tumor_Detection-Deep_Learning_for_MRI-ff4b5c?style=for-the-badge"></a></td>
 <td><a href="https://github.com/2KRISHNAYADAV/Prediction_Of_Ticket_Cancellation_Accscore"><img src="https://img.shields.io/badge/Ticket_Cancellation-Prediction-2ecc71?style=for-the-badge"></a></td>
 </tr>
+<tr>
+<td>
+<a href="https://github.com/2KRISHNAYADAV/AI-Agent-email-">
+  <img src="https://img.shields.io/badge/AI_Agent_Email-n8n_Cold_Email_Automation-4287f5?style=for-the-badge">
+</a>
+</td>
+</tr>
+
+  
 <tr>
 <td><a href="https://github.com/2KRISHNAYADAV/Iris-Flower-Classification-KNN-AND-DT-"><img src="https://img.shields.io/badge/Iris_Classification-KNN_&_DT-3498db?style=for-the-badge"></a></td>
 <td><a href="https://github.com/2KRISHNAYADAV/Sales-Forecasting-System"><img src="https://img.shields.io/badge/Sales_Forecasting-ML_Based-9b59b6?style=for-the-badge"></a></td>
