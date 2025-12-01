@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/Perplexity_AI-2A2F4F?style=for-the-badge&logo=perplexity&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Windsurf-4A90E2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Automation_Tool-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Lovable.AI-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Bolt.new-FF4500?style=for-the-badge&logo=bolt&logoColor=white" />
   <img src="https://img.shields.io/badge/Replit_AI-667881?style=for-the-badge&logo=replit&logoColor=white" />
@@ -140,7 +141,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
