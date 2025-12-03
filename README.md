@@ -279,6 +279,25 @@
 
 ---
 
+### Startup
+
+## About TeralyxA³
+
+TeralyxA³ (Teralyx AI Automation Agency) builds fast, scalable AI-automation systems that replace repetitive manual tasks with intelligent, 24/7 workflows.  
+We help businesses streamline operations, reduce effort, and scale through smart automation.
+
+## Leadership
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/teralyxaomnichannel/">
+        <img src="https://img.shields.io/badge/CEO linkedln is here -Krishna%20Shyambhahadur%20Yadav-1565C0?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ###  GitHub Insights  
 
 <div align="center">
