@@ -267,17 +267,32 @@
 </table>
 
 ---
-
-###  Hackathon Projects  
+### 🚀 Hackathon Projects  
 
 <table>
 <tr>
-<td><a href="https://github.com/2KRISHNAYADAV/Bharatiya-Antariksh-Hackathon-2025"><img src="https://img.shields.io/badge/Bharatiya_Antariksh_Hackathon_2025-AI_Powered_Solar_Warning_System-1565C0?style=for-the-badge"></a></td>
-<td><a href="https://github.com/2KRISHNAYADAV/Cow-Breed-Classification-SIH-Hackathon-Project-"><img src="https://img.shields.io/badge/Cow_Breed_Classification-SIH_Hackathon-8E24AA?style=for-the-badge"></a></td>
+<td>
+<a href="https://github.com/2KRISHNAYADAV/Bharatiya-Antariksh-Hackathon-2025">
+<img src="https://img.shields.io/badge/Bharatiya_Antariksh_Hackathon_2025-AI_Powered_Solar_Warning_System-1565C0?style=for-the-badge" />
+</a>
+</td>
+
+<td>
+<a href="https://github.com/2KRISHNAYADAV/Cow-Breed-Classification-SIH-Hackathon-Project-">
+<img src="https://img.shields.io/badge/Smart_India_Hackathon-Cow_Breed_Classification-8E24AA?style=for-the-badge" />
+</a>
+</td>
+
+<td>
+<a href="https://github.com/2KRISHNAYADAV/arborzen.ai">
+<img src="https://img.shields.io/badge/Google_DeepMind-Featured_Hackathon_Project-0F9D58?style=for-the-badge" />
+</a>
+</td>
 </tr>
 </table>
 
 ---
+
 
 
 
