@@ -317,8 +317,8 @@
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2krishnayadav&theme=tokyonight" alt="GitHub Streak" />
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=2krishnayadav&theme=tokyonight&row=1&column=7" alt="Trophies" />
+
+
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=2krishnayadav&theme=tokyo-night" alt="Contribution Graph" />
