@@ -61,94 +61,366 @@ class KrishnaYadav:
 
 
 ---
-## 🛠️ Tech Arsenal
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Tools+I+Use+to+Build+Intelligent+Systems;AI+%7C+Data+Science+%7C+Cloud+%7C+DevOps;From+Ideas+to+Production-Ready+Solutions" alt="Typing SVG" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Tech%20Arsenal&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Technologies%20I%20use%20to%20build%20intelligent%20systems&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="Tech Arsenal"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=50&lines=AI+Engineer+%7C+Software+Developer+%7C+Data+Scientist;Machine+Learning+%7C+LLMs+%7C+Agentic+AI+%7C+Analytics;C%2B%2B+Systems+%7C+Python+Backends+%7C+Intelligent+Applications;Transforming+Research+Ideas+into+Production-Ready+Systems"
+    alt="Animated introduction"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,cpp,bash,js,ts,react,nextjs,tailwind,fastapi,flask,django,postgres,mysql,docker,git,github,aws,gcp,azure,vscode&perline=10"
+    alt="Technology icons"
+  />
+</p>
+
+<p align="center">
+  <b>Artificial Intelligence</b> •
+  <b>Data Science</b> •
+  <b>Software Engineering</b> •
+  <b>Backend Systems</b> •
+  <b>Research</b>
+</p>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- LANGUAGES AND CORE ENGINEERING                          -->
+<!-- ====================================================== -->
 
 <details open>
-<summary><b>🧠 AI & Machine Learning</b></summary>
+<summary><b>💻 Languages & Core Engineering</b></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+
+<p align="center">
+  <sub>
+    Data Structures & Algorithms • Object-Oriented Programming •
+    Problem Solving • System Design • API Development
+  </sub>
 </p>
 
 </details>
 
+<br>
+
+<!-- ====================================================== -->
+<!-- AI AND MACHINE LEARNING                                -->
+<!-- ====================================================== -->
+
 <details open>
-<summary><b>💻 Languages & Core</b></summary>
+<summary><b>🧠 Artificial Intelligence & Machine Learning</b></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-7B2CBF?style=flat-square" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-00897B?style=flat-square" alt="Feature Engineering"/>
+  <img src="https://img.shields.io/badge/Model%20Evaluation-1565C0?style=flat-square" alt="Model Evaluation"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI-FF8F00?style=flat-square" alt="Explainable AI"/>
+</p>
+
+<p align="center">
+  <sub>
+    Classification • Regression • Clustering • Time-Series Forecasting •
+    Anomaly Detection • Recommendation Systems • Model Optimization
+  </sub>
 </p>
 
 </details>
 
+<br>
+
+<!-- ====================================================== -->
+<!-- GENERATIVE AND AGENTIC AI                              -->
+<!-- ====================================================== -->
+
 <details open>
-<summary><b>📊 Data & Visualization</b></summary>
+<summary><b>🤖 Generative AI, LLMs & Agentic Systems</b></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-6A1B9A?style=flat-square" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-283593?style=flat-square" alt="Multi-Agent Systems"/>
+  <img src="https://img.shields.io/badge/RAG-00695C?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-C62828?style=flat-square" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-0277BD?style=flat-square" alt="Vector Search"/>
+  <img src="https://img.shields.io/badge/Workflow%20Automation-E65100?style=flat-square" alt="Workflow Automation"/>
+</p>
+
+<p align="center">
+  <sub>
+    Conversational AI • Tool-Using Agents • Structured Data Extraction •
+    Memory Systems • AI Evaluation • Automated Workflows
+  </sub>
 </p>
 
 </details>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- DATA SCIENCE AND ANALYTICS                             -->
+<!-- ====================================================== -->
 
 <details>
-<summary><b>☁️ Cloud, Databases & DevOps</b></summary>
+<summary><b>📊 Data Science, Analytics & Visualization</b></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
+
+<p align="center">
+  <sub>
+    Exploratory Data Analysis • Statistical Analysis • KPI Development •
+    Interactive Dashboards • Business Intelligence • Data Storytelling
+  </sub>
 </p>
 
 </details>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- BACKEND AND DATABASES                                  -->
+<!-- ====================================================== -->
 
 <details>
-<summary><b>🤖 AI Tools & IDEs</b></summary>
+<summary><b>⚙️ Backend Engineering, APIs & Databases</b></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-AE7AFF?style=for-the-badge&logo=anthropic&logoColor=black" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
+
+<p align="center">
+  <sub>
+    Database Design • Schema Modelling • Query Optimization • Indexing •
+    Authentication • CRUD Systems • API Integration
+  </sub>
 </p>
 
 </details>
 
+<br>
+
+<!-- ====================================================== -->
+<!-- FRONTEND AND APPLICATION DEVELOPMENT                   -->
+<!-- ====================================================== -->
+
+<details>
+<summary><b>🌐 Frontend & Application Development</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6"/>
+  <img src="https://img.shields.io/badge/PyQtGraph-00897B?style=for-the-badge&logoColor=white" alt="PyQtGraph"/>
+</p>
+
+<p align="center">
+  <sub>
+    Responsive Interfaces • Desktop Applications • Real-Time Dashboards •
+    Interactive Visualizations • UI/UX Engineering
+  </sub>
+</p>
+
+</details>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- SYSTEM SOFTWARE                                        -->
+<!-- ====================================================== -->
+
+<details>
+<summary><b>🖥️ System Software & Performance Engineering</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++17"/>
+  <img src="https://img.shields.io/badge/Python%20Telemetry-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Telemetry"/>
+  <img src="https://img.shields.io/badge/psutil-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="psutil"/>
+  <img src="https://img.shields.io/badge/Real--Time%20Monitoring-00897B?style=for-the-badge" alt="Real-Time Monitoring"/>
+  <img src="https://img.shields.io/badge/Anomaly%20Detection-C62828?style=for-the-badge" alt="Anomaly Detection"/>
+</p>
+
+<p align="center">
+  <sub>
+    CPU Monitoring • Memory Analysis • Disk and Network Telemetry •
+    Process Analysis • Root-Cause Detection • System Optimization
+  </sub>
+</p>
+
+</details>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- CLOUD AND DEVOPS                                       -->
+<!-- ====================================================== -->
+
+<details>
+<summary><b>☁️ Cloud, DevOps & Deployment</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+<p align="center">
+  <sub>
+    Version Control • Containerization • Cloud Deployment •
+    Environment Configuration • CI/CD Fundamentals
+  </sub>
+</p>
+
+</details>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- DEVELOPMENT TOOLS                                      -->
+<!-- ====================================================== -->
+
+<details>
+<summary><b>🧰 Development Tools & Environments</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+</p>
+
+</details>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- RESEARCH INTERESTS                                     -->
+<!-- ====================================================== -->
+
+<details open>
+<summary><b>🔬 Research & Engineering Interests</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Human--Computer%20Interaction-5E35B1?style=for-the-badge" alt="Human Computer Interaction"/>
+  <img src="https://img.shields.io/badge/Digital%20Wellbeing-00897B?style=for-the-badge" alt="Digital Wellbeing"/>
+  <img src="https://img.shields.io/badge/Privacy--First%20Systems-263238?style=for-the-badge" alt="Privacy-First Systems"/>
+  <img src="https://img.shields.io/badge/Multimodal%20AI-C2185B?style=for-the-badge" alt="Multimodal AI"/>
+  <img src="https://img.shields.io/badge/AI%20System%20Evaluation-1565C0?style=for-the-badge" alt="AI Evaluation"/>
+  <img src="https://img.shields.io/badge/Behavioral%20Drift%20Detection-E65100?style=for-the-badge" alt="Behavioral Drift Detection"/>
+  <img src="https://img.shields.io/badge/Prompt%20Following-6A1B9A?style=for-the-badge" alt="Prompt Following"/>
+  <img src="https://img.shields.io/badge/Responsible%20AI-2E7D32?style=for-the-badge" alt="Responsible AI"/>
+  <img src="https://img.shields.io/badge/Explainable%20Machine%20Learning-F9A825?style=for-the-badge" alt="Explainable Machine Learning"/>
+</p>
+
+</details>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=40&lines=Currently+building+AI-powered+production+systems...;Exploring+LLM+evaluation+and+behavioral+drift...;Engineering+privacy-first+and+human-centered+applications..."
+    alt="Current focus animation"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=20,11,6&section=footer"
+    width="100%"
+    alt="Footer animation"
+  />
+</p>
+
+---
 
 <!-- ================= PROJECT UNIVERSE BANNER ================= -->
 
@@ -513,15 +785,7 @@ class KrishnaYadav:
 
 </div>
 
-## 🏆 Achievements & Certifications
- 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=2krishnayadav&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
 
-
-
-<div align="center">
   
 ###  Random Dev Quote
  
