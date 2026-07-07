@@ -10,22 +10,64 @@
     alt="Typing SVG"
   />
 </p>
-  
-<!-- Social Badges -->
-<a href="https://linkedin.com/in/krishna-yadav-392b61300"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://kaggle.com/krishnayadav456wrsty"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.leetcode.com/krishnayaduvansy58"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-&nbsp;
-<a href="https://www.hackerrank.com/@darya780945"><img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
-&nbsp;
-<a href="https://x.com/KRISHNASHY71792"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:darya780945@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=2krishnayadav&label=Profile+Views&color=00E5FF&style=flat-square" alt="Profile Views" />
+<!-- ================= SOCIAL LINKS ================= -->
+
+<table align="center">
+<tr>
+
+<!-- Portfolio -->
+
+<td align="center" width="170">
+
+<a href="https://krishna-yadav-navy.vercel.app/" target="_blank">
+<img src="https://github.com/user-attachments/assets/d0c6f532-74fa-44ae-b32a-0dfb5a368eb8"
+width="95"
+alt="Portfolio"/>
+</a>
+
+<br><br>
+
+<b>Portfolio</b>
+
+</td>
+
+<!-- Social Buttons -->
+
+<td align="center">
+
+<a href="https://linkedin.com/in/krishna-yadav-392b61300">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.hackerrank.com/@darya780945">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<br><br>
+
+<a href="https://x.com/KRISHNASHY71792">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="mailto:darya780945@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=2KRISHNAYADAV&style=for-the-badge&color=0e75b6"/>
+</p>
+
  
 </div>
 
@@ -62,7 +104,152 @@ class KrishnaYadav:
 
 ---
 
+<!-- ====================================================== -->
+<!--       🏆 Competitive Programming & Data Science         -->
+<!-- ====================================================== -->
+
+<h2 align="center">🏆 Competitive Programming & Data Science</h2>
+
+
+<table align="center" width="100%">
+<tr>
+
+<!-- ================= LEFT : LEETCODE ================= -->
+
+<td width="50%" valign="top" align="center">
+
+<h3>💛 LeetCode</h3>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=krishnayaduvansy58&theme=dark"/>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/krishnayaduvansy58?theme=dark&font=Karma&ext=contest"/>
+
+<br><br>
+
+<a href="https://leetcode.com/u/krishnayaduvansy58/">
+<img src="https://img.shields.io/badge/Open%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</td>
+
+<!-- ================= RIGHT : KAGGLE ================= -->
+
+<td width="50%" valign="top" align="center">
+
+<h3>📊 Kaggle</h3>
+
+<a href="https://www.kaggle.com/krishnayadav456wrsty">
+<img src="https://img.shields.io/badge/Open%20My%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<br><br>
+
+
+<!-- YOUR KAGGLE IMAGE -->
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/64a4365b-6090-42e0-b44c-418142c5cc41"
+     width="270"
+     alt="Kaggle Profile"/>
+</a>
+</p>
+
+<br>
+
+<!-- BADGES -->
+
+<table>
+
+<!-- ROW 1 -->
+<tr>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/ca8df136-7280-4fd9-aa1e-ba073d0d41e7" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/cd521ed5-aab7-47fa-8c8c-e5b9cb6e141e" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/f4c2ef98-104a-442a-8b66-1890d01bc776" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/c0fd9362-5662-4204-a506-505435446fe4" width="52"/></a></td>
+
+</tr>
+
+<!-- ROW 2 -->
+
+<tr>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/356f6265-bedc-4899-a0b9-01205c8feeb4" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/604be16a-94a3-4d3f-a39a-917fd7f885b0" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/abb24199-0204-4863-a99a-62d33b17136e" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/7e37b94c-9fa9-4baa-bf22-c7befd3b657e" width="52"/></a></td>
+
+</tr>
+
+<!-- ROW 3 -->
+
+<tr>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/b6dc4d26-6c4a-4bf7-902e-e7794b6ad877" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/28161b4d-2190-4956-b502-5364c97d7a2c" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/2ed83bc0-ab18-4bcb-9060-319548e64f37" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/8d506c94-76f4-4733-86b8-4c28248c2fc9" width="52"/></a></td>
+
+</tr>
+
+<!-- ROW 4 -->
+
+<tr>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/be93723d-5213-49b1-b06b-4f1871f7bb2a" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/4a0ad06e-c9f0-4e1f-8060-96b86947758a" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/093498fa-e547-4e99-9b63-4c108a55f3c9" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/5362f321-df69-4863-94f3-4ed2be5cfdcc" width="52"/></a></td>
+
+
+</tr>
+
+<!-- ROW 5 -->
+
+<tr>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/566496bf-801e-4919-ab62-6e69770d7569" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/00365d44-cc86-4555-b3f6-7add8b378990" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/485ff7a8-77da-4225-95f2-0de5707c2564" width="52"/></a></td>
+
+<td><a href="https://www.kaggle.com/krishnayadav456wrsty"><img src="https://github.com/user-attachments/assets/bde58999-0cc2-4dd3-ab16-8720a8730862" width="52"/></a></td>
+
+</tr>
+<!--row5-->
+<tr>
+  <td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/007f0147-ce17-4d08-abd1-2da60410e84b" title="30 Day Login Streak" width="55" height="55"/></a></td>
+  
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/e27ee245-cbaa-4664-ae05-0e135aed67d5" title="Gen AI Intensive Course" width="55" height="55"/></a></td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
 ---
+
+
+
+
 
 <p align="center">
   <img
@@ -78,6 +265,8 @@ class KrishnaYadav:
     alt="Animated introduction"
   />
 </p>
+
+
 
 <p align="center">
   <img
@@ -421,24 +610,23 @@ class KrishnaYadav:
 
 ---
 
-<!-- ================= PROJECT UNIVERSE BANNER ================= -->
+<!-- ================= PROJECTS ================= -->
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,50:1E1B4B,100:00E5FF&text=PROJECT%20UNIVERSE&fontSize=58&fontColor=00E5FF&stroke=FFFFFF&strokeWidth=1&desc=AI%20Projects%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Automation&descSize=18&descColor=A5B4FC&animation=twinkling" width="100%" alt="Project Universe Banner" />
-</div>
+<h1 align="center">Projects</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=Welcome+to+My+Project+Universe;AI+%7C+ML+%7C+Data+Science+%7C+Analytics+%7C+Automation;Every+Repository+is+a+Step+Toward+Intelligent+Systems;Click+Any+Card+Below+to+Explore+the+Code" alt="Typing Animation" />
+Machine Learning • Artificial Intelligence • Data Science • Analytics • Automation
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=5" width="100%" alt="Divider" />
-</div>
+<p align="center">
+Building practical AI systems, machine learning models, automation tools, analytics dashboards, and full-stack applications.
+</p>
 
-<br>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C6FF,100:0072FF" width="100%"/>
+</p>
 <!-- ================= END PROJECT UNIVERSE BANNER ================= -->
 
 ## 〔 01 〕 🧠 Machine Learning & AI
@@ -766,20 +954,19 @@ class KrishnaYadav:
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2krishnayadav&theme=tokyonight" width="100%" alt="Profile Details"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=2krishnayadav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=A0AEC0" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=2krishnayadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A0AEC0" width="48%" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2krishnayadav&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF4500&currStreakLabel=00E5FF" width="70%"/>
+
 <br/>
 <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2krishnayadav&theme=tokyo-night" alt="Contribution Graph" />
+
+</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
   <!-- Contribution Snake -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=2krishnayadav&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 
 </div>
