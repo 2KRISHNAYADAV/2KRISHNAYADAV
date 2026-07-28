@@ -149,12 +149,7 @@ class KrishnaYadav:
 
 <!-- YOUR KAGGLE IMAGE -->
 
-<p align="center">
 
-<img src="https://github.com/user-attachments/assets/64a4365b-6090-42e0-b44c-418142c5cc41"
-     width="270"
-     alt="Kaggle Profile"/>
-</a>
 </p>
 
 <br>
