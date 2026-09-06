@@ -19,7 +19,7 @@
 
 <td align="center" width="170">
 
-<a href="https://krishna-yadav-navy.vercel.app/" target="_blank">
+<a href="https://er-krishna-yadav.vercel.app/" target="_blank">
 <img src="https://github.com/user-attachments/assets/d0c6f532-74fa-44ae-b32a-0dfb5a368eb8"
 width="95"
 alt="Portfolio"/>
